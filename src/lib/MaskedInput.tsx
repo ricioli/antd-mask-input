@@ -1,7 +1,6 @@
 import * as React from 'react';
 import { useMemo } from 'react';
-import { InputRef } from 'antd';
-import Input, { InputProps } from 'antd/lib/input';
+import { InputRef, Input, InputProps } from 'antd';
 import IMask from 'imask';
 
 export interface MaskedInputProps
